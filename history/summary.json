@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "csbp-portal",
     "status": "down",
-    "uptime": "26.72%",
-    "uptimeDay": "26.72%",
-    "uptimeWeek": "26.72%",
-    "uptimeMonth": "26.72%",
-    "uptimeYear": "26.72%",
+    "uptime": "26.03%",
+    "uptimeDay": "26.03%",
+    "uptimeWeek": "26.03%",
+    "uptimeMonth": "26.03%",
+    "uptimeYear": "26.03%",
     "time": 4302,
     "timeDay": 4302,
     "timeWeek": 4302,
     "timeMonth": 4302,
     "timeYear": 4302,
     "dailyMinutesDown": {
-      "2025-01-05": 267
+      "2025-01-05": 277
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.csbp.com.bo.ico",
     "slug": "csbp-home",
     "status": "down",
-    "uptime": "21.30%",
-    "uptimeDay": "21.30%",
-    "uptimeWeek": "21.30%",
-    "uptimeMonth": "21.30%",
-    "uptimeYear": "21.30%",
+    "uptime": "20.75%",
+    "uptimeDay": "20.75%",
+    "uptimeWeek": "20.75%",
+    "uptimeMonth": "20.75%",
+    "uptimeYear": "20.75%",
     "time": 558,
     "timeDay": 558,
     "timeWeek": 558,
     "timeMonth": 558,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2025-01-05": 287
+      "2025-01-05": 297
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "csbp-asegurados",
     "status": "down",
-    "uptime": "40.35%",
-    "uptimeDay": "40.35%",
-    "uptimeWeek": "40.35%",
-    "uptimeMonth": "40.35%",
-    "uptimeYear": "40.35%",
+    "uptime": "39.30%",
+    "uptimeDay": "39.30%",
+    "uptimeWeek": "39.30%",
+    "uptimeMonth": "39.30%",
+    "uptimeYear": "39.30%",
     "time": 4251,
     "timeDay": 4251,
     "timeWeek": 4251,
     "timeMonth": 4251,
     "timeYear": 4251,
     "dailyMinutesDown": {
-      "2025-01-05": 217
+      "2025-01-05": 227
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "csbp-citas-web",
     "status": "down",
-    "uptime": "38.74%",
-    "uptimeDay": "38.74%",
-    "uptimeWeek": "38.74%",
-    "uptimeMonth": "38.74%",
-    "uptimeYear": "38.74%",
+    "uptime": "37.63%",
+    "uptimeDay": "37.63%",
+    "uptimeWeek": "37.63%",
+    "uptimeMonth": "37.63%",
+    "uptimeYear": "37.63%",
     "time": 1724,
     "timeDay": 1724,
     "timeWeek": 1724,
     "timeMonth": 1724,
     "timeYear": 1724,
     "dailyMinutesDown": {
-      "2025-01-05": 201
+      "2025-01-05": 211
     }
   },
   {
@@ -108,19 +108,19 @@
     "url": "https://www.transturin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.transturin.com.ico",
     "slug": "trans-turin-website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.98%",
-    "uptimeDay": "68.82%",
-    "uptimeWeek": "79.11%",
-    "uptimeMonth": "95.19%",
+    "uptimeDay": "70.21%",
+    "uptimeWeek": "79.21%",
+    "uptimeMonth": "95.22%",
     "uptimeYear": "99.50%",
-    "time": 1927,
-    "timeDay": 1813,
-    "timeWeek": 1793,
-    "timeMonth": 1809,
-    "timeYear": 1870,
+    "time": 1925,
+    "timeDay": 1799,
+    "timeWeek": 1789,
+    "timeMonth": 1805,
+    "timeYear": 1869,
     "dailyMinutesDown": {
-      "2025-01-05": 382,
+      "2025-01-05": 372,
       "2025-01-04": 786,
       "2025-01-03": 657,
       "2025-01-02": 263,
