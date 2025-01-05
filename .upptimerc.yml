@@ -9,7 +9,7 @@ sites:
     url: https://www.csbp.com.bo
   - name: CSBP Asegurados
     url: https://asegurados.csbp.com.bo
-  - name: CSBP Citas
+  - name: CSBP Citas web
     url: https://citas.csbp.com.bo
   - name: LR-Sisetic
     url: https://larazon.sisetic.com
