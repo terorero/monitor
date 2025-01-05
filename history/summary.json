@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "csbp-portal",
     "status": "down",
-    "uptime": "7.70%",
-    "uptimeDay": "7.70%",
-    "uptimeWeek": "7.70%",
-    "uptimeMonth": "7.70%",
-    "uptimeYear": "7.70%",
+    "uptime": "6.35%",
+    "uptimeDay": "6.35%",
+    "uptimeWeek": "6.35%",
+    "uptimeMonth": "6.35%",
+    "uptimeYear": "6.35%",
     "time": 7263,
     "timeDay": 7263,
     "timeWeek": 7263,
     "timeMonth": 7263,
     "timeYear": 7263,
     "dailyMinutesDown": {
-      "2025-01-05": 126
+      "2025-01-05": 155
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-05": 145
+      "2025-01-05": 174
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "csbp-asegurados",
     "status": "down",
-    "uptime": "0.36%",
-    "uptimeDay": "0.36%",
-    "uptimeWeek": "0.36%",
-    "uptimeMonth": "0.36%",
-    "uptimeYear": "0.36%",
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-05": 135
+      "2025-01-05": 164
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://citas.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "csbp-citas-web",
-    "status": "down",
-    "uptime": "0.74%",
-    "uptimeDay": "0.74%",
-    "uptimeWeek": "0.74%",
-    "uptimeMonth": "0.74%",
-    "uptimeYear": "0.74%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.70%",
+    "uptimeDay": "0.70%",
+    "uptimeWeek": "0.70%",
+    "uptimeMonth": "0.70%",
+    "uptimeYear": "0.70%",
+    "time": 472,
+    "timeDay": 472,
+    "timeWeek": 472,
+    "timeMonth": 472,
+    "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-01-05": 99
+      "2025-01-05": 128
     }
   },
   {
@@ -141,7 +141,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/paper.la-razon.com.ico",
     "slug": "paper-flip-lr",
     "status": "down",
-    "uptime": "34.89%",
+    "uptime": "34.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
