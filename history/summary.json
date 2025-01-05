@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "csbp-portal",
     "status": "down",
-    "uptime": "4.86%",
-    "uptimeDay": "4.86%",
-    "uptimeWeek": "4.86%",
-    "uptimeMonth": "4.86%",
-    "uptimeYear": "4.86%",
+    "uptime": "4.63%",
+    "uptimeDay": "4.63%",
+    "uptimeWeek": "4.63%",
+    "uptimeMonth": "4.63%",
+    "uptimeYear": "4.63%",
     "time": 7263,
     "timeDay": 7263,
     "timeWeek": 7263,
     "timeMonth": 7263,
     "timeYear": 7263,
     "dailyMinutesDown": {
-      "2025-01-05": 206
+      "2025-01-05": 216
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.csbp.com.bo.ico",
     "slug": "csbp-home",
     "status": "down",
-    "uptime": "3.35%",
-    "uptimeDay": "3.35%",
-    "uptimeWeek": "3.35%",
-    "uptimeMonth": "3.35%",
-    "uptimeYear": "3.35%",
+    "uptime": "3.19%",
+    "uptimeDay": "3.19%",
+    "uptimeWeek": "3.19%",
+    "uptimeMonth": "3.19%",
+    "uptimeYear": "3.19%",
     "time": 538,
     "timeDay": 538,
     "timeWeek": 538,
     "timeMonth": 538,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-01-05": 209
+      "2025-01-05": 219
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "csbp-asegurados",
     "status": "up",
-    "uptime": "8.24%",
-    "uptimeDay": "8.24%",
-    "uptimeWeek": "8.24%",
-    "uptimeMonth": "8.24%",
-    "uptimeYear": "8.24%",
+    "uptime": "17.78%",
+    "uptimeDay": "17.78%",
+    "uptimeWeek": "17.78%",
+    "uptimeMonth": "17.78%",
+    "uptimeYear": "17.78%",
     "time": 2924,
     "timeDay": 2924,
     "timeWeek": 2924,
     "timeMonth": 2924,
     "timeYear": 2924,
     "dailyMinutesDown": {
-      "2025-01-05": 198
+      "2025-01-05": 186
     }
   },
   {
@@ -64,12 +64,12 @@
     "url": "https://citas.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "csbp-citas-web",
-    "status": "up",
-    "uptime": "19.49%",
-    "uptimeDay": "19.49%",
-    "uptimeWeek": "19.49%",
-    "uptimeMonth": "19.49%",
-    "uptimeYear": "19.49%",
+    "status": "down",
+    "uptime": "23.95%",
+    "uptimeDay": "23.95%",
+    "uptimeWeek": "23.95%",
+    "uptimeMonth": "23.95%",
+    "uptimeYear": "23.95%",
     "time": 3045,
     "timeDay": 3045,
     "timeWeek": 3045,
@@ -111,8 +111,8 @@
     "status": "down",
     "uptime": "97.98%",
     "uptimeDay": "67.47%",
-    "uptimeWeek": "79.59%",
-    "uptimeMonth": "95.30%",
+    "uptimeWeek": "79.48%",
+    "uptimeMonth": "95.28%",
     "uptimeYear": "99.51%",
     "time": 1936,
     "timeDay": 1796,
@@ -120,7 +120,7 @@
     "timeMonth": 1814,
     "timeYear": 1873,
     "dailyMinutesDown": {
-      "2025-01-05": 334,
+      "2025-01-05": 345,
       "2025-01-04": 786,
       "2025-01-03": 657,
       "2025-01-02": 263,
