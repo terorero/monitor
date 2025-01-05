@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "csbp-portal",
     "status": "down",
-    "uptime": "11.12%",
-    "uptimeDay": "11.12%",
-    "uptimeWeek": "11.12%",
-    "uptimeMonth": "11.12%",
-    "uptimeYear": "11.12%",
+    "uptime": "7.70%",
+    "uptimeDay": "7.70%",
+    "uptimeWeek": "7.70%",
+    "uptimeMonth": "7.70%",
+    "uptimeYear": "7.70%",
     "time": 7263,
     "timeDay": 7263,
     "timeWeek": 7263,
     "timeMonth": 7263,
     "timeYear": 7263,
     "dailyMinutesDown": {
-      "2025-01-05": 84
+      "2025-01-05": 126
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-05": 103
+      "2025-01-05": 145
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "csbp-asegurados",
     "status": "down",
-    "uptime": "0.53%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "0.53%",
-    "uptimeMonth": "0.53%",
-    "uptimeYear": "0.53%",
+    "uptime": "0.36%",
+    "uptimeDay": "0.36%",
+    "uptimeWeek": "0.36%",
+    "uptimeMonth": "0.36%",
+    "uptimeYear": "0.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-05": 93
+      "2025-01-05": 135
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "csbp-citas-web",
     "status": "down",
-    "uptime": "1.29%",
-    "uptimeDay": "1.29%",
-    "uptimeWeek": "1.29%",
-    "uptimeMonth": "1.29%",
-    "uptimeYear": "1.29%",
+    "uptime": "0.74%",
+    "uptimeDay": "0.74%",
+    "uptimeWeek": "0.74%",
+    "uptimeMonth": "0.74%",
+    "uptimeYear": "0.74%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-05": 57
+      "2025-01-05": 99
     }
   },
   {
@@ -108,19 +108,19 @@
     "url": "https://www.transturin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.transturin.com.ico",
     "slug": "trans-turin-website",
-    "status": "down",
-    "uptime": "97.99%",
-    "uptimeDay": "65.75%",
-    "uptimeWeek": "80.01%",
-    "uptimeMonth": "95.40%",
-    "uptimeYear": "99.52%",
-    "time": 1941,
-    "timeDay": 1807,
+    "status": "up",
+    "uptime": "97.98%",
+    "uptimeDay": "64.77%",
+    "uptimeWeek": "79.59%",
+    "uptimeMonth": "95.30%",
+    "uptimeYear": "99.51%",
+    "time": 1940,
+    "timeDay": 1819,
     "timeWeek": 1808,
     "timeMonth": 1822,
     "timeYear": 1876,
     "dailyMinutesDown": {
-      "2025-01-05": 292,
+      "2025-01-05": 334,
       "2025-01-04": 786,
       "2025-01-03": 657,
       "2025-01-02": 263,
@@ -145,7 +145,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.28%",
+    "uptimeYear": "50.29%",
     "time": 91,
     "timeDay": 87,
     "timeWeek": 96,
