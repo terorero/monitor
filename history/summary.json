@@ -4,19 +4,19 @@
     "url": "https://portal.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "csbp-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 7263,
+    "timeDay": 7263,
+    "timeWeek": 7263,
+    "timeMonth": 7263,
+    "timeYear": 7263,
     "dailyMinutesDown": {
-      "2025-01-05": 74
+      "2025-01-05": 82
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-05": 73
+      "2025-01-05": 83
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "csbp-asegurados",
     "status": "down",
-    "uptime": "0.78%",
-    "uptimeDay": "0.78%",
-    "uptimeWeek": "0.78%",
-    "uptimeMonth": "0.78%",
-    "uptimeYear": "0.78%",
+    "uptime": "0.67%",
+    "uptimeDay": "0.67%",
+    "uptimeWeek": "0.67%",
+    "uptimeMonth": "0.67%",
+    "uptimeYear": "0.67%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-05": 63
+      "2025-01-05": 73
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "csbp-citas-web",
     "status": "down",
-    "uptime": "2.66%",
-    "uptimeDay": "2.66%",
-    "uptimeWeek": "2.66%",
-    "uptimeMonth": "2.66%",
-    "uptimeYear": "2.66%",
+    "uptime": "1.96%",
+    "uptimeDay": "1.96%",
+    "uptimeWeek": "1.96%",
+    "uptimeMonth": "1.96%",
+    "uptimeYear": "1.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-05": 27
+      "2025-01-05": 37
     }
   },
   {
@@ -110,12 +110,12 @@
     "slug": "trans-turin-website",
     "status": "up",
     "uptime": "97.99%",
-    "uptimeDay": "63.99%",
+    "uptimeDay": "64.37%",
     "uptimeWeek": "80.01%",
     "uptimeMonth": "95.40%",
     "uptimeYear": "99.52%",
     "time": 1942,
-    "timeDay": 1812,
+    "timeDay": 1818,
     "timeWeek": 1811,
     "timeMonth": 1825,
     "timeYear": 1877,
@@ -145,7 +145,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.27%",
+    "uptimeYear": "50.28%",
     "time": 91,
     "timeDay": 87,
     "timeWeek": 96,
