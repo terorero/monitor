@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-05": 46
+      "2025-01-05": 74
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-05": 46
+      "2025-01-05": 73
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "csbp-asegurados",
     "status": "down",
-    "uptime": "1.35%",
-    "uptimeDay": "1.35%",
-    "uptimeWeek": "1.35%",
-    "uptimeMonth": "1.35%",
-    "uptimeYear": "1.35%",
+    "uptime": "0.78%",
+    "uptimeDay": "0.78%",
+    "uptimeWeek": "0.78%",
+    "uptimeMonth": "0.78%",
+    "uptimeYear": "0.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-05": 36
+      "2025-01-05": 63
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "csbp-citas-web",
     "status": "down",
-    "uptime": "80.18%",
-    "uptimeDay": "80.18%",
-    "uptimeWeek": "80.18%",
-    "uptimeMonth": "80.18%",
-    "uptimeYear": "80.18%",
+    "uptime": "2.66%",
+    "uptimeDay": "2.66%",
+    "uptimeWeek": "2.66%",
+    "uptimeMonth": "2.66%",
+    "uptimeYear": "2.66%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-05": 0
+      "2025-01-05": 27
     }
   },
   {
@@ -108,16 +108,16 @@
     "url": "https://www.transturin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.transturin.com.ico",
     "slug": "trans-turin-website",
-    "status": "down",
+    "status": "up",
     "uptime": "97.99%",
     "uptimeDay": "63.99%",
     "uptimeWeek": "80.01%",
     "uptimeMonth": "95.40%",
     "uptimeYear": "99.52%",
-    "time": 1943,
-    "timeDay": 1807,
-    "timeWeek": 1812,
-    "timeMonth": 1826,
+    "time": 1942,
+    "timeDay": 1812,
+    "timeWeek": 1811,
+    "timeMonth": 1825,
     "timeYear": 1877,
     "dailyMinutesDown": {
       "2025-01-05": 292,
