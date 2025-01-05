@@ -4,19 +4,19 @@
     "url": "https://portal.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "csbp-portal",
-    "status": "up",
-    "uptime": "20.92%",
-    "uptimeDay": "20.92%",
-    "uptimeWeek": "20.92%",
-    "uptimeMonth": "20.92%",
-    "uptimeYear": "20.92%",
+    "status": "down",
+    "uptime": "22.25%",
+    "uptimeDay": "22.25%",
+    "uptimeWeek": "22.25%",
+    "uptimeMonth": "22.25%",
+    "uptimeYear": "22.25%",
     "time": 4945,
     "timeDay": 4945,
     "timeWeek": 4945,
     "timeMonth": 4945,
     "timeYear": 4945,
     "dailyMinutesDown": {
-      "2025-01-05": 375
+      "2025-01-05": 377
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.csbp.com.bo.ico",
     "slug": "csbp-home",
     "status": "down",
-    "uptime": "19.65%",
-    "uptimeDay": "19.65%",
-    "uptimeWeek": "19.65%",
-    "uptimeMonth": "19.65%",
-    "uptimeYear": "19.65%",
+    "uptime": "19.24%",
+    "uptimeDay": "19.24%",
+    "uptimeWeek": "19.24%",
+    "uptimeMonth": "19.24%",
+    "uptimeYear": "19.24%",
     "time": 2212,
     "timeDay": 2212,
     "timeWeek": 2212,
     "timeMonth": 2212,
     "timeYear": 2212,
     "dailyMinutesDown": {
-      "2025-01-05": 381
+      "2025-01-05": 391
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "csbp-asegurados",
     "status": "down",
-    "uptime": "31.01%",
-    "uptimeDay": "31.01%",
-    "uptimeWeek": "31.01%",
-    "uptimeMonth": "31.01%",
-    "uptimeYear": "31.01%",
+    "uptime": "30.36%",
+    "uptimeDay": "30.36%",
+    "uptimeWeek": "30.36%",
+    "uptimeMonth": "30.36%",
+    "uptimeYear": "30.36%",
     "time": 4251,
     "timeDay": 4251,
     "timeWeek": 4251,
     "timeMonth": 4251,
     "timeYear": 4251,
     "dailyMinutesDown": {
-      "2025-01-05": 327
+      "2025-01-05": 337
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "csbp-citas-web",
     "status": "down",
-    "uptime": "31.42%",
-    "uptimeDay": "31.42%",
-    "uptimeWeek": "31.42%",
-    "uptimeMonth": "31.42%",
-    "uptimeYear": "31.42%",
+    "uptime": "30.70%",
+    "uptimeDay": "30.70%",
+    "uptimeWeek": "30.70%",
+    "uptimeMonth": "30.70%",
+    "uptimeYear": "30.70%",
     "time": 1469,
     "timeDay": 1469,
     "timeWeek": 1469,
     "timeMonth": 1469,
     "timeYear": 1469,
     "dailyMinutesDown": {
-      "2025-01-05": 300
+      "2025-01-05": 310
     }
   },
   {
@@ -111,8 +111,8 @@
     "status": "down",
     "uptime": "97.98%",
     "uptimeDay": "68.55%",
-    "uptimeWeek": "78.61%",
-    "uptimeMonth": "95.08%",
+    "uptimeWeek": "78.51%",
+    "uptimeMonth": "95.05%",
     "uptimeYear": "99.49%",
     "time": 1923,
     "timeDay": 1853,
@@ -120,7 +120,7 @@
     "timeMonth": 1813,
     "timeYear": 1870,
     "dailyMinutesDown": {
-      "2025-01-05": 433,
+      "2025-01-05": 444,
       "2025-01-04": 786,
       "2025-01-03": 657,
       "2025-01-02": 263,
