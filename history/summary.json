@@ -98,18 +98,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "csbp-citas-web",
     "status": "down",
-    "uptime": "97.11%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "97.11%",
+    "uptime": "97.03%",
+    "uptimeDay": "94.03%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "97.03%",
     "time": 1053,
     "timeDay": 346,
     "timeWeek": 365,
     "timeMonth": 404,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2025-03-19": 0,
+      "2025-03-20": 84,
+      "2025-03-19": 2,
       "2025-03-12": 123,
       "2025-02-16": 139,
       "2025-02-01": 292,
@@ -143,8 +144,7 @@
       "2024-05-22": 1139,
       "2024-05-21": 1440,
       "2024-05-20": 162,
-      "2024-04-09": 22,
-      "2024-03-20": 41
+      "2024-04-09": 22
     }
   },
   {
@@ -186,11 +186,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/paper.la-razon.com.ico",
     "slug": "paper-flip-lr",
     "status": "down",
-    "uptime": "42.50%",
+    "uptime": "42.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.63%",
+    "uptimeYear": "70.65%",
     "time": 97,
     "timeDay": 122,
     "timeWeek": 111,
@@ -303,8 +303,7 @@
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
-      "2024-03-21": 1440,
-      "2024-03-20": 1440
+      "2024-03-21": 1440
     }
   },
   {
