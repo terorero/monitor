@@ -241,7 +241,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/larazon.sisetic.com.ico",
     "slug": "lr-sisetic",
     "status": "down",
-    "uptime": "87.34%",
+    "uptime": "87.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -252,7 +252,7 @@
     "timeMonth": 0,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2025-10-06": 1155,
+      "2025-10-06": 1180,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -354,19 +354,19 @@
     "url": "https://www.transturin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.transturin.com.ico",
     "slug": "trans-turin-website",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "98.39%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "98.38%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 2056,
     "timeDay": 3481,
     "timeWeek": 3329,
     "timeMonth": 3406,
     "timeYear": 2026,
     "dailyMinutesDown": {
-      "2025-10-06": 45,
+      "2025-10-06": 46,
       "2025-10-05": 20,
       "2025-10-03": 53,
       "2025-10-01": 45,
@@ -401,7 +401,7 @@
       "2025-01-15": 503,
       "2025-01-14": 469,
       "2025-01-13": 587,
-      "2025-01-12": 530
+      "2025-01-12": 492
     }
   },
   {
@@ -439,7 +439,7 @@
     "timeMonth": 0,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2025-10-06": 1155,
+      "2025-10-06": 1180,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
