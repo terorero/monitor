@@ -1,7 +1,7 @@
 url: https://portal.csbp.com.bo
-status: up
-code: 200
-responseTime: 2978
-lastUpdated: 2025-10-12T23:12:35.284Z
+status: down
+code: 502
+responseTime: 1251
+lastUpdated: 2025-10-13T20:22:11.919Z
 startTime: 2025-01-05T15:46:11.411Z
 generator: Upptime <https://github.com/upptime/upptime>
