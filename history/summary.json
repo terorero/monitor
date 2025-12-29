@@ -4,19 +4,19 @@
     "url": "https://portal.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "csbp-portal",
-    "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "90.81%",
-    "uptimeWeek": "63.88%",
-    "uptimeMonth": "91.69%",
-    "uptimeYear": "98.56%",
+    "status": "down",
+    "uptime": "98.57%",
+    "uptimeDay": "91.86%",
+    "uptimeWeek": "63.86%",
+    "uptimeMonth": "91.68%",
+    "uptimeYear": "98.57%",
     "time": 3484,
-    "timeDay": 6367,
+    "timeDay": 6850,
     "timeWeek": 5735,
     "timeMonth": 4652,
     "timeYear": 3484,
     "dailyMinutesDown": {
-      "2025-12-29": 115,
+      "2025-12-29": 117,
       "2025-12-28": 256,
       "2025-12-27": 1191,
       "2025-12-26": 1225,
@@ -36,7 +36,7 @@
       "2025-02-02": 104,
       "2025-02-01": 473,
       "2025-01-31": 897,
-      "2025-01-30": 422
+      "2025-01-30": 383
     }
   },
   {
@@ -184,10 +184,10 @@
     "url": "https://asegurados.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "csbp-asegurados",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "96.14%",
-    "uptimeWeek": "71.19%",
+    "uptimeDay": "96.07%",
+    "uptimeWeek": "71.18%",
     "uptimeMonth": "93.37%",
     "uptimeYear": "98.52%",
     "time": 931,
@@ -196,7 +196,7 @@
     "timeMonth": 1969,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2025-12-29": 55,
+      "2025-12-29": 56,
       "2025-12-28": 90,
       "2025-12-27": 1150,
       "2025-12-26": 1081,
@@ -220,7 +220,7 @@
       "2025-01-28": 372,
       "2025-01-08": 235,
       "2025-01-07": 333,
-      "2025-01-06": 41
+      "2025-01-06": 20
     }
   },
   {
@@ -285,7 +285,7 @@
     "timeMonth": 0,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2025-12-29": 1137,
+      "2025-12-29": 1173,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -552,14 +552,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.11%",
+    "uptimeYear": "50.10%",
     "time": 473,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2025-12-29": 1137,
+      "2025-12-29": 1173,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
