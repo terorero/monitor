@@ -4,19 +4,19 @@
     "url": "https://portal.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "csbp-portal",
-    "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "63.07%",
+    "status": "down",
+    "uptime": "98.57%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "63.06%",
     "uptimeMonth": "91.50%",
-    "uptimeYear": "98.56%",
-    "time": 3494,
+    "uptimeYear": "98.57%",
+    "time": 3480,
     "timeDay": 3768,
     "timeWeek": 5627,
     "timeMonth": 4662,
-    "timeYear": 3494,
+    "timeYear": 3480,
     "dailyMinutesDown": {
-      "2025-12-30": 21,
+      "2025-12-30": 23,
       "2025-12-29": 176,
       "2025-12-28": 256,
       "2025-12-27": 1191,
@@ -37,7 +37,7 @@
       "2025-02-02": 104,
       "2025-02-01": 473,
       "2025-01-31": 897,
-      "2025-01-30": 342
+      "2025-01-30": 310
     }
   },
   {
@@ -276,7 +276,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/larazon.sisetic.com.ico",
     "slug": "lr-sisetic",
     "status": "down",
-    "uptime": "79.20%",
+    "uptime": "79.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -287,7 +287,7 @@
     "timeMonth": 0,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2025-12-30": 1213,
+      "2025-12-30": 1239,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -562,7 +562,7 @@
     "timeMonth": 0,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-12-30": 1214,
+      "2025-12-30": 1239,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
