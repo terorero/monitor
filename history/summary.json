@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.60%",
     "uptimeDay": "74.86%",
-    "uptimeWeek": "85.73%",
+    "uptimeWeek": "85.90%",
     "uptimeMonth": "90.26%",
     "uptimeYear": "98.60%",
     "time": 3555,
@@ -51,7 +51,7 @@
     "status": "up",
     "uptime": "72.03%",
     "uptimeDay": "80.66%",
-    "uptimeWeek": "90.41%",
+    "uptimeWeek": "90.59%",
     "uptimeMonth": "92.17%",
     "uptimeYear": "72.03%",
     "time": 2151,
@@ -192,11 +192,11 @@
     "url": "https://asegurados.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "csbp-asegurados",
-    "status": "up",
+    "status": "down",
     "uptime": "98.62%",
-    "uptimeDay": "91.46%",
-    "uptimeWeek": "92.05%",
-    "uptimeMonth": "92.85%",
+    "uptimeDay": "91.38%",
+    "uptimeWeek": "92.21%",
+    "uptimeMonth": "92.84%",
     "uptimeYear": "98.62%",
     "time": 976,
     "timeDay": 1509,
@@ -204,7 +204,7 @@
     "timeMonth": 2122,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2026-01-03": 123,
+      "2026-01-03": 124,
       "2026-01-02": 32,
       "2025-12-31": 28,
       "2025-12-30": 25,
@@ -229,7 +229,7 @@
       "2025-01-31": 385,
       "2025-01-30": 422,
       "2025-01-29": 449,
-      "2025-01-28": 338
+      "2025-01-28": 317
     }
   },
   {
@@ -240,7 +240,7 @@
     "status": "up",
     "uptime": "98.61%",
     "uptimeDay": "93.49%",
-    "uptimeWeek": "93.19%",
+    "uptimeWeek": "93.36%",
     "uptimeMonth": "93.36%",
     "uptimeYear": "98.61%",
     "time": 1004,
@@ -295,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2026-01-03": 997,
+      "2026-01-03": 1014,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -574,7 +574,7 @@
     "timeMonth": 0,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2026-01-03": 997,
+      "2026-01-03": 1014,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
