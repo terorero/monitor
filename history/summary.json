@@ -4,10 +4,10 @@
     "url": "https://portal.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "csbp-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "96.98%",
-    "uptimeWeek": "82.72%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "82.70%",
     "uptimeMonth": "91.05%",
     "uptimeYear": "98.60%",
     "time": 3488,
@@ -16,6 +16,7 @@
     "timeMonth": 4499,
     "timeYear": 3488,
     "dailyMinutesDown": {
+      "2026-01-03": 2,
       "2026-01-02": 44,
       "2026-01-01": 51,
       "2025-12-31": 69,
@@ -40,7 +41,7 @@
       "2025-02-02": 104,
       "2025-02-01": 473,
       "2025-01-31": 897,
-      "2025-01-30": 35
+      "2025-01-30": 20
     }
   },
   {
@@ -48,18 +49,19 @@
     "url": "https://www.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.csbp.com.bo.ico",
     "slug": "csbp-home",
-    "status": "up",
-    "uptime": "72.00%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "85.66%",
+    "status": "down",
+    "uptime": "72.01%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "85.94%",
     "uptimeMonth": "92.76%",
-    "uptimeYear": "72.00%",
+    "uptimeYear": "72.01%",
     "time": 2120,
     "timeDay": 5752,
     "timeWeek": 3905,
     "timeMonth": 3789,
     "timeYear": 2120,
     "dailyMinutesDown": {
+      "2026-01-03": 1,
       "2026-01-02": 32,
       "2026-01-01": 22,
       "2025-12-31": 29,
@@ -183,7 +185,7 @@
       "2025-01-31": 360,
       "2025-01-30": 385,
       "2025-01-29": 159,
-      "2025-01-28": 305
+      "2025-01-28": 281
     }
   },
   {
@@ -287,14 +289,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.23%",
+    "uptimeYear": "50.22%",
     "time": 318,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2026-01-03": 104,
+      "2026-01-03": 133,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -495,7 +497,7 @@
     "timeDay": 2547,
     "timeWeek": 2540,
     "timeMonth": 2644,
-    "timeYear": 2146,
+    "timeYear": 2145,
     "dailyMinutesDown": {
       "2025-11-25": 23,
       "2025-10-08": 27,
@@ -566,14 +568,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.94%",
+    "uptimeYear": "48.93%",
     "time": 472,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2026-01-03": 104,
+      "2026-01-03": 133,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
