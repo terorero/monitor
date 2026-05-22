@@ -12,7 +12,7 @@ sites:
   - name: CSBP Citas web
     url: https://citas.csbp.com.bo
   - name: Drive24
-    url: https://drive24.eu.org
+    url: https://drive.root24.eu.org
   - name: TransTurin Website
     url: https://www.transturin.com
   - name: Paper Flip LR
