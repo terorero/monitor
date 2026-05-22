@@ -255,19 +255,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.root24.eu.org.ico",
     "slug": "drive24",
     "status": "up",
-    "uptime": "58.71%",
-    "uptimeDay": "58.71%",
-    "uptimeWeek": "58.71%",
-    "uptimeMonth": "58.71%",
-    "uptimeYear": "58.71%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1767,
     "timeDay": 1767,
     "timeWeek": 1767,
     "timeMonth": 1767,
     "timeYear": 1767,
-    "dailyMinutesDown": {
-      "2026-05-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TransTurin Website",
@@ -381,8 +379,8 @@
     "slug": "ventas-inmediatas",
     "status": "down",
     "uptime": "73.40%",
-    "uptimeDay": "2.46%",
-    "uptimeWeek": "0.35%",
+    "uptimeDay": "2.49%",
+    "uptimeWeek": "0.36%",
     "uptimeMonth": "1.46%",
     "uptimeYear": "11.64%",
     "time": 498,
