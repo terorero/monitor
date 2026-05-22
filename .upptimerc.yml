@@ -11,8 +11,8 @@ sites:
     url: https://asegurados.csbp.com.bo
   - name: CSBP Citas web
     url: https://citas.csbp.com.bo
-  - name: LR-Sisetic
-    url: https://larazon.sisetic.com
+  - name: Drive24
+    url: https://drive24.eu.org
   - name: TransTurin Website
     url: https://www.transturin.com
   - name: Paper Flip LR
