@@ -5,20 +5,20 @@ repo: monitor # The name of this repository
 sites:
   - name: iPHOTO LR
     url: https://iphoto.la-razon.com
-  - name: CSBP Home
-    url: https://www.csbp.com.bo
-  - name: CSBP Asegurados
-    url: https://asegurados.csbp.com.bo
-  - name: CSBP Citas web
-    url: https://citas.csbp.com.bo
-  - name: Drive24
-    url: https://drive.root24.eu.org
-  - name: TransTurin Website
-    url: https://www.transturin.com
+  - name: Remoto LR
+    url: https://remoto-ti.la-razon.com
+  - name: Remoto VIP LR
+    url: https://remoto.la-razon.com
+  - name: Container 1
+    url: https://docker1.la-razon.com
+  - name: Container 2
+    url: https://docker2.la-razon.com
+  - name: Container 3
+    url: https://docker3.la-razon.com
   - name: Paper Flip LR
     url: https://paper.la-razon.com
-  - name: Ventas Inmediatas
-    url: https://ventasinmediatas.transturin.com
+  - name: Drive24
+    url: https://drive.root24.eu.org
     
 assignees:
   - terorero
