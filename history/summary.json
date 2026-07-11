@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/iphoto.la-razon.com.ico",
     "slug": "i-photo-lr",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 627,
-    "timeWeek": 568,
-    "timeMonth": 658,
-    "timeYear": 601,
+    "uptime": "99.90%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.90%",
+    "time": 597,
+    "timeDay": 539,
+    "timeWeek": 552,
+    "timeMonth": 648,
+    "timeYear": 597,
     "dailyMinutesDown": {
-      "2026-07-11": 0
+      "2026-07-11": 71
     }
   },
   {
