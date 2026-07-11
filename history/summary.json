@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/iphoto.la-razon.com.ico",
     "slug": "i-photo-lr",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "95.07%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.80%",
+    "uptimeDay": "89.81%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.80%",
     "time": 596,
     "timeDay": 543,
     "timeWeek": 552,
     "timeMonth": 645,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2026-07-11": 71
+      "2026-07-11": 147
     }
   },
   {
@@ -96,18 +96,20 @@
     "url": "https://docker3.la-razon.com",
     "icon": "https://icons.duckduckgo.com/ip3/docker3.la-razon.com.ico",
     "slug": "container-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 635,
-    "timeWeek": 526,
-    "timeMonth": 655,
-    "timeYear": 594,
-    "dailyMinutesDown": {}
+    "time": 653,
+    "timeDay": 2084,
+    "timeWeek": 902,
+    "timeMonth": 748,
+    "timeYear": 653,
+    "dailyMinutesDown": {
+      "2026-07-11": 0
+    }
   },
   {
     "name": "Paper Flip LR",
