@@ -4,10 +4,10 @@
     "url": "https://iphoto.la-razon.com",
     "icon": "https://icons.duckduckgo.com/ip3/iphoto.la-razon.com.ico",
     "slug": "i-photo-lr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "86.72%",
-    "uptimeWeek": "98.10%",
+    "uptimeDay": "86.65%",
+    "uptimeWeek": "98.09%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.74%",
     "time": 598,
@@ -16,7 +16,8 @@
     "timeMonth": 647,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2026-07-11": 192
+      "2026-07-11": 192,
+      "2026-07-12": 1
     }
   },
   {
@@ -24,18 +25,20 @@
     "url": "https://remoto-ti.la-razon.com",
     "icon": "https://icons.duckduckgo.com/ip3/remoto-ti.la-razon.com.ico",
     "slug": "remoto-lr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 797,
-    "timeWeek": 577,
-    "timeMonth": 612,
-    "timeYear": 568,
-    "dailyMinutesDown": {}
+    "time": 561,
+    "timeDay": 511,
+    "timeWeek": 533,
+    "timeMonth": 599,
+    "timeYear": 561,
+    "dailyMinutesDown": {
+      "2026-07-12": 1
+    }
   },
   {
     "name": "Remoto VIP LR",
@@ -78,18 +81,20 @@
     "url": "https://docker2.la-razon.com",
     "icon": "https://icons.duckduckgo.com/ip3/docker2.la-razon.com.ico",
     "slug": "container-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 633,
-    "timeDay": 684,
+    "time": 632,
+    "timeDay": 628,
     "timeWeek": 577,
-    "timeMonth": 732,
-    "timeYear": 633,
-    "dailyMinutesDown": {}
+    "timeMonth": 727,
+    "timeYear": 632,
+    "dailyMinutesDown": {
+      "2026-07-12": 0
+    }
   },
   {
     "name": "Container 3",
